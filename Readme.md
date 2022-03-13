@@ -2,6 +2,8 @@
 
 ## Overview of Project
 
+### Our client ran a Kickstarter campaign for a play called "Fever" that almost reached its goal in a short amount of time. The overall goal of this analysis is to determine how other campaigns during that time fared by looking at launch dates and funding goals.
+
 ### We have compiled data from Kickstarter Campaigns from the years 2009-2017 in an Excel spreadsheet, and analyzed trends to help our client decide details for an upcoming fundraiser. We first formatted the Excel data in order to facilitate our analysis. Here are some methods we utilized: 
 
 - Adding colors via conditional formatting to make the spreadsheet more visually striking
@@ -16,7 +18,11 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
+Using a filtered pivot table, we generated this line chart to visualize the relationship between launch dates and the success rate of theather Kickstarter campaigns:
+
 ![Outcomes Based on Launch Date](https://github.com/rivas-j/kickstarter-analysis/blob/5a990a44e53bcde5722ba97e0bd8fb429a922622/Resources/Theater_Outcomes_vs_Launch.png)
+
+Based on this chart, we're noticing that the month of May yielded the most successful Theater campaigns. The months of May through August, and October, yielded the highest number of failed Theater campaigns. Our conclusion is that May will be the best month for launching a sucessful new Theater campaign. We would advise not starting a Theater campaign in December, where the rate of Successful and Failed are equal. 
 
 ### Analysis of Outcomes Based on Goals
 
