@@ -30,11 +30,11 @@ Using that filtered pivot table, we generated this line chart to visualize the r
 
 ### Analysis of Outcomes Based on Goals
 
-For this portion of the analysis we created a simple table meant to analyze the campaign funding goals in different spending tiers, then summarizing the rates of success, failed and canceled. Please see the completed table in the screenshot below:
+For this portion of the analysis we created a simple table meant to analyze the campaign funding goals in different spending tiers, then summarizing the rates of Successful, Failed and Canceled. Please see the completed table in the screenshot below:
 
 ![Table - Play Outcomes vs Goals](https://github.com/rivas-j/kickstarter-analysis/blob/763dc868a1c70b7a35fb8e169b8e17f5dfaa4438/Resources/Table_Outcomes_vs_Goals.png)
 
-We used COUNTIFS formulas, such as the quoted one below, to calculate the count of successful plays within each goal tier.
+We used COUNTIFS formulas, such as the quoted one below, to calculate the count of Successful plays within each goal tier outlined in the table.
 
 > =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$R:$R,"plays")
 
@@ -42,7 +42,7 @@ We then calculated the percentage of each outcome in order to generate the line 
 
 ![Chart - Play Outcomes vs Goals](https://github.com/rivas-j/kickstarter-analysis/blob/5a990a44e53bcde5722ba97e0bd8fb429a922622/Resources/Outcomes_vs_Goals.png)
 
-This line chart uses the Goal column along the X-Axis, and Percentage of Outcomes along the Y-Axis. We included a legend below depicting each colored line corresponding to Percentage Successful, Canceled and Failed plays based on the Goal amount.
+This line chart uses the Goal column along the X-Axis, and Percentage of Outcomes along the Y-Axis. We included a legend below depicting each colored line corresponding to Percentage Successful, and Failed plays based on the Goal amount.
 
 ### Challenges and Difficulties Encountered
 - The dates in the initial data set were in UNIX format, which is very difficult for customers and analysts to read. It also makes it harder to organize our pivot tables and charts. We addressed this by using Excel formulas to convert the UNIX dates to Day/Month/Year format.
@@ -54,15 +54,15 @@ This line chart uses the Goal column along the X-Axis, and Percentage of Outcome
 ## Results
 
 ### Theater Outcomes Based on Launch Date
-- Based on the above chart, the month of May yielded the most successful Theater campaigns. The months of May through August, and October also yielded the highest number of failed Theater campaigns. Our conclusion is that May will be the best month for launching a successful new Theater campaign.
+- Based on the above chart titled **Theater Outcomes by Launch Date**, the month of May yielded the most Successful Theater campaigns. The months of May through August, and October also yielded the highest number of failed Theater campaigns. Our conclusion is that May will be the best month for launching a Successful new Theater campaign.
 - We would advise not starting a Theater campaign in December, where the rate of Successful and Failed are equal.
 
 ### Play Outcomes Based on Campaign Goals
-- According to the above line chart, we suggest aiming for two ranges campaign goals: $1,000 to $4,999 if you have a tight budget, $35,000 to $44,999 if you foresee needing a higher budget. These two goal ranges showed the highest successful Play campaigns, and the lowest failed Play campaigns.
+- According to the above line chart titled **Outcomes Based on Goals**, we suggest aiming for two campaign goal ranges: $1,000 to $4,999 if you have a tight budget, $35,000 to $44,999 if you foresee needing a higher budget. These two goal ranges showed the highest Successful percentage of Play campaigns, and the lowest failed percentage of Play campaigns.
 
 ### Possible Limitation in our Data Set
 - One possible limitation of these charts is not accounting for geographic region. Right now we have results from many different countries in the same analysis.  We suggest narrowing down the scope of this analysis to a specific country where you plan on running your campaign for more accurate results.
 
 ### Suggestions for Additional Scope of Analysis
 - Because our client's previous Kickstarter Campaign almost reached it's funding goal in a short period of time, we would like to explore the length of each campaign and try to determine any trends that might affect campaign duration.
-- We would like to explore using Stacked Column charts to visualize the data differently, which may be easier to read than a line chart in our opinion.
+- We would like to explore using stacked column charts to visualize the data differently, which may be easier to read than a line chart in our opinion.
