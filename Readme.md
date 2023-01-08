@@ -9,12 +9,12 @@
 <a href="#dataset">Dataset</a> &nbsp;&bull;&nbsp;
 <a href="#tools-used">Tools Used</a> &nbsp;&bull;&nbsp;
 <a href="#analysis-and-challenges">Analysis and Challenges</a> &nbsp;&bull;&nbsp;
-<a href="#results">Results</a> &nbsp;&bull;&nbsp;
+<a href="#results">Results</a>
 </p>
 
 
 
-# <div align="center">Goal</div>
+# <div align="center">Goals</div>
 
 The client ran a Kickstarter campaign for a play called "Fever" that almost reached its goal in a short amount of time. The aim is to look at data from all other Kickstarter Theater campaigns, then perform an analysis to identify trends amongst other Successful fundraisers. The findings will help narrow down parameters for the client's following fundraiser.
 
