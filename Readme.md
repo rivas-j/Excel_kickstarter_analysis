@@ -25,11 +25,10 @@ The client ran a Kickstarter campaign for a play called "Fever" that almost reac
 Kickstarter campaign data was compiled from the years 2009-2017 in an Excel spreadsheet, then analyzed trends based on Launch Date and Funding Goals and their effect on campaign success.
 
 
-- [Kickstarter Analysis](data/kickstarter_analysis.xlsx): Explain source of file, size of dataset and format
+- [Kickstarter Analysis](data/kickstarter_analysis.xlsx): Spreadsheet containing data for 4,114 Kickstarter campaigns, downloaded from Amazon S3 host
 
 # <div align="center">Tools Used</div>
 - **Microsoft Excel:** Spreadsheet used to analyze dataset and produce visualizations
-
 
 
 # <div align="center">Analysis and Challenges</div>
@@ -78,10 +77,8 @@ This line chart used the Goal column along the X-Axis, and Percentage of Outcome
 ## Play Outcomes Based on Campaign Goals
 - According to the above line chart titled **Outcomes Based on Goals**, we suggest aiming for two campaign goal ranges: $1,000 to $4,999 if you have a tight budget, $35,000 to $44,999 if you foresee needing a higher budget. These two goal ranges showed the highest percentage of Successful Play campaigns, and the lowest percentage of Failed Play campaigns.
 
-## Possible Limitations in our Data Set
+## Possible Dataset Limitations
 - These charts do not account for geographic region. Right now we have results from many different countries in the same analysis.  We suggest narrowing down the scope of this analysis to a specific country where you plan on running your campaign for more accurate results.
-
-# <div align="center">Summary</div>
 
 ## Suggestions for Additional Scope of Analysis
 - Because our client's previous Kickstarter Campaign almost reached it's funding goal in a short period of time, we would like to explore the length of each campaign and try to determine any trends that might affect campaign duration.
