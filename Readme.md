@@ -10,7 +10,6 @@
 <a href="#tools-used">Tools Used</a> &nbsp;&bull;&nbsp;
 <a href="#analysis-and-challenges">Analysis and Challenges</a> &nbsp;&bull;&nbsp;
 <a href="#results">Results</a> &nbsp;&bull;&nbsp;
-<a href="#summary">Summary</a>
 </p>
 
 
