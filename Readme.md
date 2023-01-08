@@ -22,7 +22,7 @@ The client ran a Kickstarter campaign for a play called "Fever" that almost reac
 
 Kickstarter campaign data was compiled from the years 2009-2017 in an Excel spreadsheet, then analyzed trends based on Launch Date and Funding Goals and their effect on campaign success.
 
-- [Kickstarter Analysis](data\kickstarter_analysis.xlsx): Explain source of file, size of dataset and format
+- [Kickstarter Analysis](data/kickstarter_analysis.xlsx): Explain source of file, size of dataset and format
 
 # Tools Used
 
