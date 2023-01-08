@@ -21,15 +21,18 @@
 The client ran a Kickstarter campaign for a play called "Fever" that almost reached its goal in a short amount of time. The aim is to look at data from all other Kickstarter Theater campaigns, then perform an analysis to identify trends amongst other Successful fundraisers. The findings will help narrow down parameters for the client's following fundraiser.
 
 
-# Dataset
+# <div align="center">Dataset</div>
 Kickstarter campaign data was compiled from the years 2009-2017 in an Excel spreadsheet, then analyzed trends based on Launch Date and Funding Goals and their effect on campaign success.
+
 
 - [Kickstarter Analysis](data/kickstarter_analysis.xlsx): Explain source of file, size of dataset and format
 
-# Tools Used
+# <div align="center">Tools Used</div>
 - **Microsoft Excel:** Spreadsheet used to analyze dataset and produce visualizations
 
-# Analysis and Challenges
+
+
+# <div align="center">Analysis and Challenges</div>
 
 ## Analysis of Outcomes Based on Launch Date
 
@@ -66,10 +69,23 @@ This line chart used the Goal column along the X-Axis, and Percentage of Outcome
 
 ![Formatting Chart - Play Outcomes vs Goals](images/Formatting-Outcomes_Based_on_Goals.png)
 
-# Results
+# <div align="center">Results</div>
 
+## Theater Outcomes Based on Launch Date
+- Based on the above chart titled **Theater Outcomes by Launch Date**, the month of May yielded the most Successful Theater campaigns. The months of May through August, and October also yielded the highest number of failed Theater campaigns. Our conclusion is that May seems to be the best month for launching a successful theater Kickstarter campaign.
+- We would advise not starting a Theater campaign in December, where the rate of Successful and Failed campaigns are equal.
 
-# Summary
+## Play Outcomes Based on Campaign Goals
+- According to the above line chart titled **Outcomes Based on Goals**, we suggest aiming for two campaign goal ranges: $1,000 to $4,999 if you have a tight budget, $35,000 to $44,999 if you foresee needing a higher budget. These two goal ranges showed the highest percentage of Successful Play campaigns, and the lowest percentage of Failed Play campaigns.
+
+## Possible Limitations in our Data Set
+- These charts do not account for geographic region. Right now we have results from many different countries in the same analysis.  We suggest narrowing down the scope of this analysis to a specific country where you plan on running your campaign for more accurate results.
+
+# <div align="center">Summary</div>
+
+## Suggestions for Additional Scope of Analysis
+- Because our client's previous Kickstarter Campaign almost reached it's funding goal in a short period of time, we would like to explore the length of each campaign and try to determine any trends that might affect campaign duration.
+- We would like to use stacked column charts to visualize the data differently, which may be easier to read than a line chart in our opinion.
 
 [Back to top](#kickstarter-theater-campaign-analysis-with-excel)
 
