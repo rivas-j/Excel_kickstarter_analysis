@@ -1,8 +1,8 @@
-# Kickstarter Campaign Analysis with Excel
+# Kickstarter Theater Campaign Analysis with Excel
 
-![Theater Outcomes by Launch Date](\images\Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Funding Goals](images/Theater_Outcomes_vs_Launch.png)
 
-Short blurb describing what the tool does
+## <div align="center">Analyze Kickstarter data to help decide the next successful theater campaign</div>
 
 <p align="center">
 <a href="#goal">Goal</a> &nbsp;&bull;&nbsp;
@@ -15,29 +15,22 @@ Short blurb describing what the tool does
 </p>
 
 # Goal
-What should be true after this project is implemented?
+The client ran a Kickstarter campaign for a play called "Fever" that almost reached its goal in a short amount of time. The aim is to look at data from all other Kickstarter Theater campaigns, then perform an analysis to identify trends amongst other Successful fundraisers. The findings will help narrow down parameters for the client's following fundraiser.
 
 
 # Dataset
 
-Insert link to main data used in project. Explain the source and format
+Kickstarter campaign data was compiled from the years 2009-2017 in an Excel spreadsheet, then analyzed trends based on Launch Date and Funding Goals and their effect on campaign success.
 
-[Data Set File Name](relative link within repo-in data folder)
-
-
-# Project Overview
-
-Reformat project overview. Edit for clarity and remove any language that overlaps with goal
+- [Kickstarter Analysis](data\kickstarter_analysis.xlsx): Explain source of file, size of dataset and format
 
 # Tools Used
 
-```
-- Tool 1: Tool purpose
-- Tool 2: Tool purpose
-```
+- **Microsoft Excel:** Spreadsheet used to analyze dataset and produce visualizations
+
+
 
 # Objectives
-
 In depth detail on steps taken to solve problem, including tools and how we modeled the data, include screenshots and code snippets
 
 ![Image title](relative link to image file-in images folder)
@@ -45,12 +38,11 @@ In depth detail on steps taken to solve problem, including tools and how we mode
 # Results
 
 
-
-
-
 # Summary
 
-[Back to top](#project-name)
+[Back to top](#kickstarter-theater-campaign-analysis-with-excel)
+
+
 
 
 
