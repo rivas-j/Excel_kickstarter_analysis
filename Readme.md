@@ -80,7 +80,7 @@ This line chart used the Goal column along the X-Axis, and Percentage of Outcome
 ## Possible Dataset Limitations
 - These charts do not account for geographic region. Right now we have results from many different countries in the same analysis.  We suggest narrowing down the scope of this analysis to a specific country where you plan on running your campaign for more accurate results.
 
-## Suggestions for Additional Scope of Analysis
+## Suggestions for Additional Analysis
 - Because our client's previous Kickstarter Campaign almost reached it's funding goal in a short period of time, we would like to explore the length of each campaign and try to determine any trends that might affect campaign duration.
 - We would like to use stacked column charts to visualize the data differently, which may be easier to read than a line chart in our opinion.
 
