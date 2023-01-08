@@ -5,9 +5,8 @@
 ## <div align="center">Analyze Kickstarter data to help decide the next successful theater campaign</div>
 
 <p align="center">
-<a href="#goal">Goal</a> &nbsp;&bull;&nbsp;
+<a href="#goal">Goals</a> &nbsp;&bull;&nbsp;
 <a href="#dataset">Dataset</a> &nbsp;&bull;&nbsp;
-<a href="#project-overview">Project Overview</a> &nbsp;&bull;&nbsp;
 <a href="#tools-used">Tools Used</a> &nbsp;&bull;&nbsp;
 <a href="#analysis-and-challenges">Analysis and Challenges</a> &nbsp;&bull;&nbsp;
 <a href="#results">Results</a> &nbsp;&bull;&nbsp;
