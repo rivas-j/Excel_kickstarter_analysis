@@ -25,7 +25,7 @@ The client ran a Kickstarter campaign for a play called "Fever" that almost reac
 Kickstarter campaign data was compiled from the years 2009-2017 in an Excel spreadsheet, then analyzed trends based on Launch Date and Funding Goals and their effect on campaign success.
 
 
-- [Kickstarter Data](data/kickstarter_data.xlsx): Spreadsheet containing data for 4,114 Kickstarter campaigns, downloaded from Amazon S3 host
+- [Kickstarter Data:](data/kickstarter_data.xlsx) Spreadsheet containing data for 4,114 Kickstarter campaigns, downloaded from Amazon S3 host
 
 # <div align="center">Tools Used</div>
 - **Microsoft Excel:** Spreadsheet used to analyze dataset and produce visualizations
