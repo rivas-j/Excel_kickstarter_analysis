@@ -1,6 +1,8 @@
 # Kickstarter Theater Campaign Analysis with Excel
 
-![Theater Outcomes vs Funding Goals](images/Theater_Outcomes_vs_Launch.png)
+<p align="center">
+  <img src="images/crowdfunding.jpg">
+</p>
 
 ## <div align="center">Analyze Kickstarter data to help decide the next successful theater campaign</div>
 
