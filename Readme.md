@@ -1,8 +1,8 @@
 # Kickstarter Theater Campaign Analysis with Excel
 
-<p align="center">
+<div align="center">
   <img src="images/crowdfunding.jpg">
-</p>
+</div>
 
 ## <div align="center">Analyze Kickstarter data to help decide the next successful theater campaign</div>
 
